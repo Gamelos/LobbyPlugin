@@ -1,0 +1,10 @@
+name: Lobby
+author: Gamelos
+version: 1.0
+
+main: de.gamelos.lobby.Main.Main
+
+commands:
+  lb:
+  test:
+  fastjump:
